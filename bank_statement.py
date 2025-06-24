@@ -37,7 +37,6 @@ def extract_transactions_from_image(image_path: str):
             "For the 'Amount' column:",
             "- If the transaction is a withdrawal or a debit, precede the amount with a minus sign (e.g., -200.00).",
             "- If the transaction is a deposit or a credit, provide the amount as a positive number (e.g., 694.81).",
-            "- Do not include a currency symbol.",
             "- The 'Previous balance' entry does not have an 'Amount', so leave that cell empty.",
             "Ensure the table is correctly formatted Markdown.",
             "Here is the image:",
