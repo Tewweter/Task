@@ -14,7 +14,6 @@ IMAGE_PATH = "img1.png"
 # Configure the API client
 genai.configure(api_key=API_KEY)
 
-# --- Function to extract transactions ---
 def extract_transactions_from_image(image_path: str):
     """
     Extracts transaction data from a bank statement image using Google Gemini Pro Vision.
@@ -28,13 +27,8 @@ def extract_transactions_from_image(image_path: str):
         # Load the image
         img = Image.open(image_path)
 
-        # Using gemini-2.5-flash as requested. Note: Ensure this model supports vision capabilities.
-        # As of the latest updates, gemini-pro-vision is generally used for vision tasks.
-        # If gemini-2.5-flash encounters issues with image input, consider switching back to 'gemini-pro-vision'
-        # or checking the official Google AI documentation for the exact capabilities of gemini-2.5-flash with images.
         model = genai.GenerativeModel('gemini-2.5-flash') 
 
-        # Define the prompt for the model
         prompt_parts = [
             "You are an expert at extracting financial transaction data from bank statements.",
             "Analyze the provided image of a bank statement.",
