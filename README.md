@@ -62,37 +62,37 @@ Here is the extracted transaction data in a Markdown table format:
 **img2**
 
 --- Extracted Transactions ---
-Here is the extracted financial transaction data from the bank statement, formatted as a Markdown table:
 
-| Date       | Description                     | Amount   | Balance  |
-| :--------- | :------------------------------ | :------- | :------- |
-| 06-01-2021 | Opening Balance                 |          | 4500.25  |
-| 06-01-2021 | Best Embarcadero Parking        | -25.00   | 4475.25  |
-| 06-01-2021 | AIG Insurance Adjustment 20-21  | -121.45  | 4353.80  |
-| 06-02-2021 | Ferry Building Marketplace      | -76.80   | 4277.00  |
-| 06-02-2021 | 76 Fuel 1150 Embarcadero        | -87.25   | 4189.75  |
-| 06-04-2021 | Trello Subscription             | -35.20   | 4154.55  |
-| 06-04-2021 | ATM Embarcadero Center          | -200.00  | 3954.55  |
-| 06-07-2021 | Blue Bottle Cofee               | -11.00   | 3943.55  |
-| 06-07-2021 | Best Embarcadero Parking        | -35.00   | 3908.55  |
-| 06-07-2021 | Docmosis Subscription           | -50.00   | 3858.55  |
-| 06-07-2021 | Embarcadero Centre Postage      | -22.50   | 3836.05  |
-| 06-07-2021 | Bill Payment - Silicon Valley Graphic | -450.00  | 3386.05  |
-| 06-07-2021 | Blue Bottle Cofee               | -11.00   | 3375.05  |
-| 06-08-2021 | Ferry Building Marketplace      | -85.50   | 3289.55  |
-| 06-08-2021 | Dividend Share - Berkeley Group | 1500.60  | 4790.15  |
-| 06-08-2021 | Canva Subscription              | -125.00  | 4665.15  |
-| 06-09-2021 | 76 Fuel 1150 Embarcadero        | -95.00   | 4570.15  |
-| 06-10-2021 | Embarcadero Centre Postage      | -24.50   | 4545.65  |
-| 06-10-2021 | ATM Embarcadero Center          | -300.00  | 4245.65  |
-| 06-11-2021 | Best Embarcadero Parking        | -7.50    | 4238.15  |
-| 06-11-2021 | Internet Transfer               | 1000.00  | 5238.15  |
-| 06-11-2021 | Dividend Share - McDonalds Corp | 2500.00  | 7738.15  |
-| 06-14-2021 | Bill Payment - Silicon Valley Graphic | -4500.00 | 3238.15  |
-| 06-14-2021 | Ferry Building Marketplace      | -150.65  | 3087.50  |
-| 06-14-2021 | Bill Payment - Electricity      | -900.65  | 2186.85  |
-| 06-14-2021 | Best Embarcadero Parking        | -121.00  | 2065.85  |
-| 06-14-2021 | Embarcadero Centre Postage      | -54.75   | 2011.10  |
+| Date | Description | Amount | Balance |
+| :--------- | :---------------------------------- | :---------- | :---------- |
+| 2021-06-01 | Opening Balance | | 4500.25 |
+| 2021-05-31 | Best Embarcadero Parking | -25.00 | 4475.25 |
+| 2021-05-31 | AIG Insurance Adjustment 20-21 | -121.45 | 4353.80 |
+| 2021-06-01 | Ferry Building Marketplace | -76.80 | 4277.00 |
+| 2021-06-01 | 76 Fuel 1150 Embarcadero | -87.25 | 4189.75 |
+| 2021-06-03 | Trello Subscription | -35.20 | 4154.55 |
+| 2021-06-03 | ATM Embarcadero Center | -200.00 | 3954.55 |
+| 2021-06-04 | Blue Bottle Cofee | -11.00 | 3943.55 |
+| 2021-06-04 | Best Embarcadero Parking | -35.00 | 3908.55 |
+| 2021-06-04 | Docmosis Subscription | -50.00 | 3858.55 |
+| 2021-06-04 | Embarcadero Centre Postage | -22.50 | 3836.05 |
+| 2021-06-04 | Bill Payment - Silicon Valley Graphic | -450.00 | 3386.05 |
+| 2021-06-04 | Blue Bottle Cofee | -11.00 | 3375.05 |
+| 2021-06-07 | Ferry Building Marketplace | -85.50 | 3289.55 |
+| 2021-06-07 | Dividend Share - Berkeley Group | 1500.60 | 4790.15 |
+| 2021-06-07 | Canva Subscription | -125.00 | 4665.15 |
+| 2021-06-07 | 76 Fuel 1150 Embarcadero | -95.00 | 4570.15 |
+| 2021-06-08 | Embarcadero Centre Postage | -24.50 | 4545.65 |
+| 2021-06-08 | ATM Embarcadero Center | -300.00 | 4245.65 |
+| 2021-06-09 | Best Embarcadero Parking | -7.50 | 4238.15 |
+| 2021-06-09 | Internet Transfer | 1000.00 | 5238.15 |
+| 2021-06-09 | Dividend Share - McDonalds Corp | 2500.00 | 7738.15 |
+| 2021-06-09 | Bill Payment - Silicon Valley Graphic | -4500.00 | 3238.15 |
+| 2021-06-11 | Ferry Building Marketplace | -150.65 | 3087.50 |
+| 2021-06-11 | Bill Payment - Electricity | -900.65 | 2186.85 |
+| 2021-06-11 | Best Embarcadero Parking | -121.00 | 2065.85 |
+| 2021-06-11 | Embarcadero Centre Postage | -54.75 | 2011.10 |
+
 
 ------------------------------
 

@@ -9,7 +9,7 @@ load_dotenv()
 # Get API key from environment variable
 API_KEY = os.getenv("GOOGLE_API_KEY") 
 
-IMAGE_PATH = "img3.jpg" 
+IMAGE_PATH = "img2.png" 
 
 # Configure the API client
 genai.configure(api_key=API_KEY)
