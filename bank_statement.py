@@ -9,7 +9,7 @@ load_dotenv()
 # Get API key from environment variable
 API_KEY = os.getenv("GOOGLE_API_KEY") 
 
-IMAGE_PATH = "img1.png" 
+IMAGE_PATH = "img3.jpg" 
 
 # Configure the API client
 genai.configure(api_key=API_KEY)
@@ -35,6 +35,7 @@ def extract_transactions_from_image(image_path: str):
             "Extract all individual transactions into a Markdown table.",
             "The table should have the following columns: 'Date', 'Description', 'Amount', 'Balance'.",
             "For the 'Amount' column:",
+            "- Date format should be : YYYY-MM-DD"
             "- If the transaction is a withdrawal or a debit, precede the amount with a minus sign (e.g., -200.00).",
             "- If the transaction is a deposit or a credit, provide the amount as a positive number (e.g., 694.81).",
             "- The 'Previous balance' entry does not have an 'Amount', so leave that cell empty.",

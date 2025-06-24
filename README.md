@@ -99,22 +99,22 @@ Here is the extracted financial transaction data from the bank statement, format
 **img3**
 
 --- Extracted Transactions ---
-Here is the extracted transaction data from the bank statement in a Markdown table format:
+Here are the individual transactions extracted from the provided bank statement:
 
-| Date   | Description       | Amount   | Balance  |
-| :----- | :---------------- | :------- | :------- |
-| Apr 8  | Opening Balance   |          | 5,234.09 |
-| Apr 8  | Insurance         | 272.45   | 5,506.54 |
-| Apr 10 | ATM               | -200.00  | 5,306.54 |
-| Apr 12 | Internet Transfer | 250.00   | 5,556.54 |
-| Apr 12 | Payroll           | 2100.00  | 7,656.54 |
-| Apr 13 | Bill payment      | -135.07  | 7,521.47 |
-| Apr 14 | Direct debit      | -200.00  | 7,321.47 |
-| Apr 14 | Deposit           | 250.00   | 7,567.87 |
-| Apr 15 | Bill payment      | -525.72  | 7,042.15 |
-| Apr 17 | Bill payment      | -327.63  | 6,714.52 |
-| Apr 17 | Bill payment      | -729.96  | 5,984.56 |
-| Apr 18 | Bill payment      | -223.69  | 5,710.87 |
+| Date       | Description       | Amount  | Balance  |
+| :--------- | :---------------- | :------ | :------- |
+| 2010-04-08 | Opening Balance   |         | 5234.09  |
+| 2010-04-08 | Insurance         | 272.45  | 5506.54  |
+| 2010-04-10 | ATM               | -200.00 | 5306.54  |
+| 2010-04-12 | Internet Transfer | 250.00  | 5556.54  |
+| 2010-04-12 | Payroll           | 2100.00 | 7656.54  |
+| 2010-04-13 | Bill payment      | -135.07 | 7521.47  |
+| 2010-04-14 | Direct debit      | -200.00 | 7321.47  |
+| 2010-04-14 | Deposit           | 250.00  | 7567.87  |
+| 2010-04-15 | Bill payment      | -525.72 | 7042.15  |
+| 2010-04-17 | Bill payment      | -327.63 | 6714.52  |
+| 2010-04-17 | Bill payment      | -729.96 | 5984.56  |
+| 2010-04-18 | Bill payment      | -223.69 | 5710.87  |
 
 ------------------------------
 
